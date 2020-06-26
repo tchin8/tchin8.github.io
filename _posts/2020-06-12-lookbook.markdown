@@ -3,7 +3,8 @@ layout: post
 title: Lookbook
 # date: 2020-06-12 13:32:20 +0300
 description: Lookbook is a Facebook clone. # Add post description (optional)
-img: light_dark_mode.gif # Add image post (optional)
+img: lookbook-ss.png # Add image post (optional)
+thumbnail: light_dark_mode.gif
 fig-caption: # Add figcaption (optional)
 # tags: [Holidays, Hawaii]
 ---

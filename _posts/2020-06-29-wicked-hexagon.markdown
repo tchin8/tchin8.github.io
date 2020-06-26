@@ -3,7 +3,8 @@ layout: post
 title: Wicked Hexagon
 # date: 2017-09-12 00:00:00 +0300
 description: A clone of the fast-paced game Super Hexagon # Add post description (optional)
-img: software.jpg # Add image post (optional)
+img: gameplay.gif # Add image post (optional)
+thumbnail: gameplay.gif # Add image post (optional)
 # tags: [Productivity, Software] # add tag
 ---
 
