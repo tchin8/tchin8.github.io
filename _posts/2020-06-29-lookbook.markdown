@@ -5,6 +5,8 @@ title: Lookbook
 description: Lookbook is a Facebook clone. # Add post description (optional)
 img: lookbook_ss.png # Add image post (optional)
 thumbnail: light_dark_mode.gif
+github: https://github.com/tchin8/Lookbook
+live: https://lookbook-aa.herokuapp.com/
 fig-caption: # Add figcaption (optional)
 # tags: [Holidays, Hawaii]
 ---

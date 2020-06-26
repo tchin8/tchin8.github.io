@@ -5,6 +5,8 @@ title: Wicked Hexagon
 description: A clone of the fast-paced game Super Hexagon # Add post description (optional)
 img: gameplay.gif # Add image post (optional)
 thumbnail: gameplay.gif # Add image post (optional)
+live: https://tchin8.github.io/Wicked-Hexagon/
+github: https://github.com/tchin8/Wicked-Hexagon
 # tags: [Productivity, Software] # add tag
 ---
 
