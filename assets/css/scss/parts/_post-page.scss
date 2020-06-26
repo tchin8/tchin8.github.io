@@ -17,6 +17,12 @@
     text-transform: uppercase;
   }
 
+  .project-links {
+    a:hover {
+      text-decoration: underline;
+    }
+  }
+
 }
 
 .page-cover-image {
